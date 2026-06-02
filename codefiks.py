@@ -45,7 +45,7 @@ WAKTU_MENU_REF = {
 }
 
 # ==============================================================================
-# DATA AWAL (FORMAT STRING PIPA)
+# DATA AWAL 
 # ==============================================================================
 DATA_TERBARU_INPUT = [
     "Gaeul | Ramyeon, Es Teh Manis | 36000 | Dine In | 1",
